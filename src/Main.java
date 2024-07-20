@@ -1,17 +1,18 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Divjot Singh!");
-
-        int topscore = 24;
-        if (topscore == 90) {
-            System.out.println("Top Score");
+        isLeapYear(1);
+    }
+    public static boolean isLeapYear(int year){
+        boolean fail = false;
+        boolean pass = true;
+        if (year < 1 || year > 9999) {
+            System.out.println("Invalid");
         }
-        else if (topscore <= 30) {
-            System.out.println("bad");
+        else if (year % 4 == 0 || year % 100 == 0 && year % 400 == 0) {
+            System.out.println("isLeapYear = True");
+        } else {
+            System.out.println("isLeapYear = False");
         }
-        else {
-            System.out.println("Good Improve");
-        }
-
+        return fail;
     }
 }
