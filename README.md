@@ -5,6 +5,6 @@ this repo is for learning java i will commit every code there daily to mark my p
 
 ## Links
 
- - [Udemy Course](hhttps://www.udemy.com/course/java-the-complete-java-developer-course/)
+ - [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
  - [Intelli J ](https://www.jetbrains.com/idea/)
 
