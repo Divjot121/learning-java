@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4282a369-d731-46ef-8cb5-2505d3171f84" name="Changes" comment="Today i completed 8 excercises and completed my notes">
+    <list default="true" id="4282a369-d731-46ef-8cb5-2505d3171f84" name="Changes" comment="Started section 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section_6/Lecture_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section_6/Lecture_56.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -74,7 +76,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lecture_42">
+  <component name="RunManager">
     <configuration name="Lecture_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Section_5.Lecture_42" />
       <module name="Learning Java" />
@@ -103,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lecture_51" />
         <item itemvalue="Application.Lecture_42" />
+        <item itemvalue="Application.Lecture_51" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +135,7 @@
       <workItem from="1721507522720" duration="1478000" />
       <workItem from="1721556982715" duration="5634000" />
       <workItem from="1721747356008" duration="25000" />
+      <workItem from="1721747386067" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="Starting">
       <option name="closed" value="true" />
@@ -174,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721582327329</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Started section 6">
+      <option name="closed" value="true" />
+      <created>1721747480265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721747480265</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +207,8 @@
     <MESSAGE value="CHallenge" />
     <MESSAGE value="Day 3" />
     <MESSAGE value="Today i completed 8 excercises and completed my notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Today i completed 8 excercises and completed my notes" />
+    <MESSAGE value="Started section 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started section 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
