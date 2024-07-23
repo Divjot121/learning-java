@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4282a369-d731-46ef-8cb5-2505d3171f84" name="Changes" comment="Today i completed 8 excercises and completed my notes">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section_5/Lecture_51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section_5/Lecture_52_Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section_5/Lecture_53_Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,36 +45,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Challenge_1.executor": "Run",
-    "Application.Lecture_42.executor": "Run",
-    "Application.Lecture_43.executor": "Run",
-    "Application.Lecture_44_Challenge.executor": "Run",
-    "Application.Lecture_45.executor": "Run",
-    "Application.Lecture_48_Challenge.executor": "Run",
-    "Application.Lecture_51.executor": "Run",
-    "Application.Lecture_52_Challenge.executor": "Run",
-    "Application.Lecture_53_Challenge.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/sostech/Development/Java/Learning Java/src/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Challenge_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lecture_42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lecture_43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lecture_44_Challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lecture_45.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lecture_48_Challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lecture_51.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lecture_52_Challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lecture_53_Challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sostech/Development/Java/Learning Java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Lecture_42">
     <configuration name="Lecture_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Section_5.Lecture_42" />
       <module name="Learning Java" />
@@ -136,7 +131,8 @@
       <workItem from="1721230602209" duration="7860000" />
       <workItem from="1721408383140" duration="8079000" />
       <workItem from="1721507522720" duration="1478000" />
-      <workItem from="1721556982715" duration="2861000" />
+      <workItem from="1721556982715" duration="5634000" />
+      <workItem from="1721747356008" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="Starting">
       <option name="closed" value="true" />
@@ -170,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721483237668</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Today i completed 8 excercises and completed my notes">
+      <option name="closed" value="true" />
+      <created>1721582327329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721582327329</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
