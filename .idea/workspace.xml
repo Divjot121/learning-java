@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4282a369-d731-46ef-8cb5-2505d3171f84" name="Changes" comment="Enhanced Switch statement">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section_6/Lecture_57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section_6/Lecture_57.java" afterDir="false" />
-    </list>
+    <list default="true" id="4282a369-d731-46ef-8cb5-2505d3171f84" name="Changes" comment="Done. tom i will solve problems" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +134,7 @@
       <workItem from="1721507522720" duration="1478000" />
       <workItem from="1721556982715" duration="5634000" />
       <workItem from="1721747356008" duration="25000" />
-      <workItem from="1721747386067" duration="4985000" />
+      <workItem from="1721747386067" duration="5387000" />
     </task>
     <task id="LOCAL-00001" summary="Starting">
       <option name="closed" value="true" />
@@ -203,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721830860434</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Done. tom i will solve problems">
+      <option name="closed" value="true" />
+      <created>1721831612470</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721831612470</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +233,8 @@
     <MESSAGE value="Started section 6" />
     <MESSAGE value="Completed lecture 56" />
     <MESSAGE value="Enhanced Switch statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enhanced Switch statement" />
+    <MESSAGE value="Done. tom i will solve problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done. tom i will solve problems" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
