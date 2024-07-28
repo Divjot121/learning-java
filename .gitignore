@@ -25,5 +25,11 @@ bin/
 ### VS Code ###
 .vscode/
 
+### IntelliJ ###
+.idea/
+
+### Fleet ###
+.fleet
+
 ### Mac OS ###
 .DS_Store

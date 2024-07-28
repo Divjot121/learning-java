@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4282a369-d731-46ef-8cb5-2505d3171f84" name="Changes" comment="for loops try">
+    <list default="true" id="4282a369-d731-46ef-8cb5-2505d3171f84" name="Changes" comment="challenege">
+      <change afterPath="$PROJECT_DIR$/src/Section_6/Lecture_61_Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section_6/Interest_Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section_6/Interest_Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section_6/Lecture_60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section_6/Lecture_60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section_6/Lecture_60_Mini_Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section_6/Lecture_60_Mini_Challenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,7 @@
     "Application.Lecture_59_Challenge.executor": "Run",
     "Application.Lecture_60.executor": "Run",
     "Application.Lecture_60_Mini_Challenge.executor": "Run",
+    "Application.Lecture_61_Challenge.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -114,7 +113,7 @@
       <workItem from="1721868064410" duration="323000" />
       <workItem from="1721868391038" duration="3960000" />
       <workItem from="1721917411734" duration="2216000" />
-      <workItem from="1722083355064" duration="8710000" />
+      <workItem from="1722083355064" duration="13711000" />
     </task>
     <task id="LOCAL-00001" summary="Starting">
       <option name="closed" value="true" />
@@ -228,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722011306325</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="challenege">
+      <option name="closed" value="true" />
+      <created>1722156280843</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722156280843</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +263,8 @@
     <MESSAGE value="Done. tom i will solve problems" />
     <MESSAGE value="Solved challenge now" />
     <MESSAGE value="for loops try" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loops try" />
+    <MESSAGE value="challenege" />
+    <option name="LAST_COMMIT_MESSAGE" value="challenege" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
