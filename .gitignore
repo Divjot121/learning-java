@@ -25,9 +25,6 @@ bin/
 ### VS Code ###
 .vscode/
 
-### IntelliJ ###
-.idea/
-
 ### Fleet ###
 .fleet
 
