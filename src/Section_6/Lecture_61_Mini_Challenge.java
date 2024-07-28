@@ -1,16 +1,22 @@
 package Section_6;
 
-import java.util.Scanner;
-
-public class Lecture_61_Challenge {
+public class Lecture_61_Mini_Challenge {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the number you want to check");
-        int numInput = scanner.nextInt();
-        isPrime(numInput);
+        int count = 0;
+
+        for (int i = 10; i <= 50; i++) {
+            if (isPrime(i)) {
+                System.out.println("Number" + i + " is prime number");
+                count++;
+            }
+            if  (count==3) {
+                System.out.println("Found 3- Exiting the program");
+                break;
+            }
+        }
     }
 
-    public static void isPrime(int num) {
+    public static boolean isPrime(int num) {
         boolean flag = true;
         if (num == 0 || num == 1) {
             System.out.println(num + " is not a prime number");
@@ -29,5 +35,6 @@ public class Lecture_61_Challenge {
 
             }
         }
+        return flag;
     }
 }
