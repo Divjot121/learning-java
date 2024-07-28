@@ -1,12 +1,21 @@
+//* this is for testing purposes
+
 public class Main {
     public static void main(String[] args) {
-        hasTeen(14, 1, 5);
-    }
-    public static void hasTeen(int first, int second, int third) {
-        if (first >= 13) {
-            System.out.println("True");
-        } else {
-            System.out.println("False");
+        System.out.println(hasTeen(14));
+
+        for (int i = 100; i > 0; i += 10) {
+            System.out.println(i);
         }
+    }
+
+    public static boolean hasTeen(int first) {
+        if (first >= 13 && first <= 19) {
+            return true;
+        } else {
+            return false;
+        }
+
+
     }
 }

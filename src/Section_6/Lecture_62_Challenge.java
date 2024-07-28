@@ -25,15 +25,16 @@ public class Lecture_62_Challenge {
 
         for (int i = 1; i <= 1000; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
-                System.out.println(i);
+                System.out.println("Found A Match " + i);
                 count++;
                 sum += i;
-                System.out.println(sum);
             }
+
             if (count == 5) {
                 System.out.println("5 Found - Ending The Loop");
                 break;
             }
         }
+        System.out.println(sum);
     }
 }
