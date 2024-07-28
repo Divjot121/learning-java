@@ -1,6 +1,6 @@
 package Section_5;
 
-public class Lecture_43 {
+public class Lecture_43_CodeBlocks_ControlFlow {
     public static void main(String[] args) {
 
         boolean gameOver = true;

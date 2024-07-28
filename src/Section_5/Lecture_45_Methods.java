@@ -1,6 +1,6 @@
 package Section_5;
 
-public class Lecture_45 {
+public class Lecture_45_Methods {
     public static void main(String[] args) {
         hello();
     }

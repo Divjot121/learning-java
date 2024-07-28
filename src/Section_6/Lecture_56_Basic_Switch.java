@@ -1,6 +1,6 @@
 package Section_6;
 
-public class Lecture_56 {
+public class Lecture_56_Basic_Switch {
 
     public static void main(String[] args) {
         int value = 4;

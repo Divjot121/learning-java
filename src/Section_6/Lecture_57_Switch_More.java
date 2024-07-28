@@ -1,6 +1,6 @@
 package Section_6;
 
-public class Lecture_57 {
+public class Lecture_57_Switch_More {
     public static void main(String[] args) {
         int value = 4;
         if (value == 1) {

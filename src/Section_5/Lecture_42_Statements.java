@@ -1,6 +1,6 @@
 package Section_5;
 
-public class Lecture_42 {
+public class Lecture_42_Statements {
     public static void main(String[] args) {
         int myVariable = 50; // this whole line is a statement
         System.out.println(myVariable);
