@@ -1,6 +1,6 @@
 package Section_6;
 
-public class Interest_Calc {
+public class Interest_Calc_Program {
     public static void main(String[] args) {
 
         System.out.println("12000 at 10% is " + calculateInterest(12000, 10));
