@@ -20,7 +20,7 @@ public class Pattern_printing_Apna_College {
         //
         // for (int i = 1; i <= n; i++) {
         // for (int j = 1; j <= m; j++) {
-        // if (i == 1 || j == 1 || i == n || j == m) {
+        // if (i == 1 || j == 1 || i == n || j == m) { // if i or j are equal's to 1 or i equals to n or j equals to m then print the start (*)
         // System.out.print(" * ");
         // } else {
         // System.out.print(" ");
@@ -41,7 +41,7 @@ public class Pattern_printing_Apna_College {
         // 4. Inverted Half Pyramid
         // int n = 4;
         // for (int i = 1; i<=n; i++) {
-        // for (int j = 4; j>=i; j--) {
+        // for (int j = 4; j>=i; j--) { // here j's value is 4 and till j >=i decrement it and print the star (*)
         // System.out.print(" * ");
         // }
         // System.out.println();
@@ -50,11 +50,11 @@ public class Pattern_printing_Apna_College {
         // 5. Inverted Half Pyramid Rotated By 180 Degrees
         // int n = 4;
         // for (int i = 1; i <= n; i++) {
-        // for (int j = 3; j >= i; j--) {
+        // for (int j = 3; j >= i; j--) { // here we are printing the space from 3 to 1 by decrementing till j is greater than i
         // System.out.print(" ");
         // }
-        // for (int k = 1; k <= i; k++) { // it is recommended to use different var
-        // rather than reassigning the already assigned var
+        // for (int k = 1; k <= i; k++) {  // here we are printing the star (*) normally as we did with half pyramid
+        // it is recommended to use different var rather than reassigning the already assigned var
         // System.out.print(" * ");
         // }
         // System.out.println();
@@ -65,7 +65,7 @@ public class Pattern_printing_Apna_College {
         // int n = 5;
         // for (int i = 1; i<=n; i++) {
         // for (int j = 1; j<=i; j++) {
-        // System.out.print(" " + j + " ");
+        // System.out.print(" " + j + " "); // same logic but printed j's value directly instead of *
         // }
         // System.out.println();
         // }
@@ -106,7 +106,7 @@ public class Pattern_printing_Apna_College {
 //        for (int i = 1; i <= n; i++) {
 //            for (int j = 1; j <= i; j++) { // Conditions
 //                int sum = i + j;
-//                if (sum%2 == 0) {
+//                if (sum % 2 == 0) { // if sum of i and j is even then print 1 else (odd) print 0
 //                    System.out.print(" 1 ");
 //                } else {
 //                    System.out.print(" 0 ");
