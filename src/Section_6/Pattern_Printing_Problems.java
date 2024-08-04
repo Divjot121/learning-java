@@ -25,22 +25,22 @@ public class Pattern_Printing_Problems {
 //        }
 
         //* 3rd Problem - Palindromic Number Pyramid
-        int n = 5;
-        for (int i = 1; i <= n; i++) {
-            //this loop is for the space
-            for (int j = i; j <= n; j++) {
-                System.out.print(" ");
-            }
-            //this loop is for print number 1 to i
-            for (int j = 1; j <= i; j++) {
-                System.out.print(j + "");
-            }
-            //this loop is for the number in reverse order
-            for (int j = i - 1; j >= 1; j--) {
-                System.out.print(j + "");
-            }
-            System.out.println();
-        }
+//        int n = 5;
+//        for (int i = 1; i <= n; i++) {
+//            //this loop is for the space
+//            for (int j = i; j <= n; j++) {
+//                System.out.print(" ");
+//            }
+//            //this loop is for print number 1 to i
+//            for (int j = 1; j <= i; j++) {
+//                System.out.print(j + "");
+//            }
+//            //this loop is for the number in reverse order
+//            for (int j = i - 1; j >= 1; j--) {
+//                System.out.print(j + "");
+//            }
+//            System.out.println();
+//        }
 
     }
 
