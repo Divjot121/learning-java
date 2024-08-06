@@ -115,5 +115,117 @@ public class Pattern_printing_Apna_College {
 //            System.out.println();
 //        }
 
+        // 11. Butterfly Pattern
+//        int n = 5;
+//        //upper half
+//        for (int i = 1; i <= n; i++) {
+//            // 1st part
+//            for (int j = 1; j <= i; j++) {
+//                System.out.print(" * ");
+//            }
+//            // space
+//            int spaces = 2 * (n-i);
+//            for (int j = 1; j <= spaces; j++) {
+//                System.out.print("   ");
+//            }
+//
+//            // 2nd part
+//            for (int j = 1; j <= i; j++) {
+//                System.out.print(" * ");
+//            }
+//            System.out.println();
+//        }
+//
+//        //lower half
+//        for (int i = n; i >= 1; i--) {
+//            // 1st part
+//            for (int j = 1; j <= i; j++) {
+//                System.out.print(" * ");
+//            }
+//            // space
+//            int spaces = 2 * (n-i);
+//            for (int j = 1; j <= spaces; j++) {
+//                System.out.print("   ");
+//            }
+//
+//            // 2nd part
+//            for (int j = 1; j <= i; j++) {
+//                System.out.print(" * ");
+//            }
+//            System.out.println();
+//        }
+
+        // 12. Solid Rhombus
+//        int n = 5;
+//        for (int i = 1; i <= n; i++) {
+//            for (int j = 4; j >= i; j--) {
+//                System.out.print("   ");
+//            }
+//            for (int k = 1; k <= n; k++) {
+//                System.out.print(" * ");
+//            }
+//            System.out.println();
+//        }
+
+        // 13. Number Pyramid
+//        int n = 5;
+//        for (int i = 1; i <= n; i++) {
+//            for (int j = 1; j < n-i; j++) {
+//                System.out.print(" ");
+//            }
+//            for (int j = 1; j <= i; j++) {
+//                System.out.print(i + " ");
+//            }
+//            System.out.println();
+//        }
+
+        // 14. Palindromic Pattern
+//        int n = 5;
+//        for (int i = 1; i <= n; i++) {
+//            // spaces
+//            for (int j = 1; j <= n - i; j++) {
+//                System.out.print("  ");
+//            }
+//            for (int j = i; j >= 1; j--) {
+//                System.out.print(j + " ");
+//            }
+//            // 2nd half number
+//            for (int j = 2; j <= i; j++) {
+//                System.out.print(j + " ");
+//            }
+//            System.out.println();
+//        }
+
+        // 15. Diamond Pattern
+//        int n = 5;
+//
+//        // upper half
+//         for(int i=1; i<=n; i++) {
+//                   //spaces
+//                   for(int j=1; j<=n-i; j++) {
+//                       System.out.print("   ");
+//                   }
+//                   for(int j=1; j<=2*i-1; j++) {
+//                       System.out.print(" * ");
+//                   }
+//                   System.out.println();
+//               }
+//
+//
+//               //lower part
+//               for(int i=n; i>=1; i--) {
+//                   //spaces
+//                   for(int j=1; j<=n-i; j++) {
+//                       System.out.print("   ");
+//                   }
+//                   for(int j=1; j<=2*i-1; j++) {
+//                       System.out.print(" * ");
+//                   }
+//                   System.out.println();
+//               }
+
+//  <-------------------------------------------------->END<---------------------------------------------------------------->
+
+
     }
 }
